@@ -8,5 +8,6 @@ API_AVAILABLE(ios(12.0))
 - (void)start:(CDVInvokedUrlCommand *)command;
 
 - (void)appIsActive;
+- (void)cancel;
 
 @end
